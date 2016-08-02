@@ -1,2 +1,2 @@
 # LL
-This is LL's first repository。
+This is LL's first repository；
